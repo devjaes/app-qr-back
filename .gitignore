@@ -1,0 +1,9 @@
+node_modules/
+
+DS_Store/
+
+## Build Files
+dist/
+
+## Gcp
+config/credentials.json
